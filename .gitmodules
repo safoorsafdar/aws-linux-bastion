@@ -1,4 +1,3 @@
 [submodule "submodules/aws-vpc"]
 	path = submodules/aws-vpc
 	url = git@github-safoorsafdar:safoorsafdar/aws-vpc.git
-	branch = master
